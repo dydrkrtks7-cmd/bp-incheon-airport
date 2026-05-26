@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d5016"/>
+      <stop offset="100%" stop-color="#1a3a0a"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c8a96e"/>
+      <stop offset="100%" stop-color="#1a3a0a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Geometric pattern -->
+  <circle cx="107" cy="125" r="20" fill="#1a3a0a" opacity="0.08"/>
+    <circle cx="74" cy="209" r="21" fill="#1a3a0a" opacity="0.14"/>
+    <circle cx="698" cy="337" r="87" fill="#1a3a0a" opacity="0.09"/>
+    <circle cx="29" cy="678" r="52" fill="#1a3a0a" opacity="0.17"/>
+    <circle cx="300" cy="426" r="83" fill="#1a3a0a" opacity="0.09"/>
+    <circle cx="1299" cy="65" r="72" fill="#1a3a0a" opacity="0.07"/>
+    <rect x="109" y="54" width="65" height="76" rx="8" fill="#2d5016" opacity="0.13" transform="rotate(19, 346, 418)"/>
+    <rect x="187" y="646" width="26" height="27" rx="8" fill="#2d5016" opacity="0.13" transform="rotate(17, 1035, -60)"/>
+    <rect x="283" y="341" width="26" height="25" rx="8" fill="#2d5016" opacity="0.10" transform="rotate(28, 1187, 602)"/>
+    <rect x="491" y="557" width="66" height="33" rx="8" fill="#2d5016" opacity="0.07" transform="rotate(31, 774, -80)"/>
+    <rect x="321" y="616" width="38" height="81" rx="8" fill="#2d5016" opacity="0.12" transform="rotate(12, 266, 590)"/>
+    <rect x="661" y="-9" width="87" height="37" rx="8" fill="#2d5016" opacity="0.15" transform="rotate(3, 1276, 632)"/>
+    <rect x="343" y="507" width="57" height="73" rx="8" fill="#2d5016" opacity="0.08" transform="rotate(30, 455, 611)"/>
+    <rect x="1160" y="180" width="77" height="77" rx="8" fill="#2d5016" opacity="0.07" transform="rotate(1, 578, 54)"/>
+    <polygon points="142,315 222,475 62,475" fill="#1a3a0a" opacity="0.03"/>
+    <polygon points="350,112 443,298 257,298" fill="#1a3a0a" opacity="0.05"/>
+    <polygon points="963,306 1037,454 889,454" fill="#1a3a0a" opacity="0.08"/>
+    <polygon points="949,400 1044,590 854,590" fill="#1a3a0a" opacity="0.10"/>
+
+  <!-- Wave at bottom -->
+  <path d="M0,580 C360,605 840,555 1200,580 L1200,630 L0,630Z" fill="#1a3a0a" opacity="0.3"/>
+
+  <!-- 중앙 텍스트 카드 -->
+  <rect x="80" y="195" width="1040" height="260" rx="20" fill="rgba(0,0,0,0.35)" filter="url(#blur-bg)"/>
+  <filter id="blur-bg"><feGaussianBlur stdDeviation="8"/></filter>
+
+  <text x="600" y="270" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="44" font-weight="700" fill="#ffffff" letter-spacing="2">
+    Incheon airport 안내
+  </text>
+  <text x="600" y="330" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="22" font-weight="400" fill="rgba(255,255,255,0.85)">
+    Incheon — 정보
+  </text>
+
+  <!-- Accent line -->
+  <line x1="450" y1="355" x2="750" y2="355" stroke="#c8a96e" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- 하단 CTA -->
+  <rect x="440" y="385" width="320" height="40" rx="20" fill="#c8a96e" opacity="0.9"/>
+  <text x="600" y="411" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="16" font-weight="600" fill="#ffffff">
+    ▼ 자세히 보기
+  </text>
+
+  <!-- 상단 브랜드 -->
+  <text x="60" y="55" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="18" font-weight="600" fill="rgba(255,255,255,0.6)">
+    Incheon Incheon airport 안내 — 정보
+  </text>
+</svg>
