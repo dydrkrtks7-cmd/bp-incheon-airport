@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[Incheon Incheon airport 안내]]></title>
-  <link>https://</link>
-  <description><![CDATA[Incheon 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Tue, 26 May 2026 17:04:18 GMT</pubDate>
-  <lastBuildDate>Tue, 26 May 2026 17:04:18 GMT</lastBuildDate>
-  <atom:link href="https:///feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[정보]]></title>
+  <link>https://dydrkrtks7-cmd.github.io/bp-incheon-airport</link>
+  <description><![CDATA[정보 - Incheon airport 안내 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Tue, 09 Jun 2026 23:42:35 GMT</pubDate>
+  <lastBuildDate>Tue, 09 Jun 2026 23:42:35 GMT</lastBuildDate>
+  <atom:link href="https://dydrkrtks7-cmd.github.io/bp-incheon-airport/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[Incheon Incheon airport 안내 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https:///</link>
-      <guid isPermaLink="true">https:///</guid>
-      <description><![CDATA[Incheon 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Tue, 26 May 2026 17:04:18 GMT</pubDate>
+      <title><![CDATA[Incheon airport 안내 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-incheon-airport/posts/qa-001-3usqk2.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-incheon-airport/posts/qa-001-3usqk2.html</guid>
+      <description><![CDATA[### 영화 전체에 걸쳐 타일러 더든이 등장하기 전 싱글 프레임으로 삽입된 장면 총정리 아, 진짜... 파이트 클럽 영화 중 가장 미묘하고 숨겨진 부분이 바로 타일러 더든이 등장하기 전에 삽입된 세 개의 싱글 프레임 장면입니다. 이들 장면은 영화 전체 컷팅 과정에서 완]]></description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
