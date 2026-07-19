@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-incheon-airport/</loc>
+    <loc>https://incheon-local-info.pbn-builder.xyz/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-incheon-airport/posts/field_note-001-1bw9fdk.html</loc>
+    <loc>https://incheon-local-info.pbn-builder.xyz/posts/field_note-001-1bw9fdk.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-incheon-airport/posts/guide-002-1bw9fdk.html</loc>
+    <loc>https://incheon-local-info.pbn-builder.xyz/posts/guide-002-1bw9fdk.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-incheon-airport/posts/qa-001-3usqk2.html</loc>
+    <loc>https://incheon-local-info.pbn-builder.xyz/posts/qa-001-3usqk2.html</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-incheon-airport/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
